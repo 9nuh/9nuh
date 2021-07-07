@@ -1,0 +1,2 @@
+- 👋 Hi, I’m 9nuh
+- 👀 I’m mobile developer
