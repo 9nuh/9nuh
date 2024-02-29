@@ -1,2 +1,2 @@
 - 👋 Hi, I’m 9nuh
-- 👀 I’m mobile developer
+- 👀 I’m flutter developer
